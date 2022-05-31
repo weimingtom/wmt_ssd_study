@@ -9,4 +9,5 @@ My SSD202D study
 * http://doc.industio.com/docs/ido-som2d0x-start/ido-som2d0x-start-jiekouyulan  
 * nano version  
 * http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1ctusve9lbg2d  
+* https://github.com/Mmatsnev/SSD202D  
 
